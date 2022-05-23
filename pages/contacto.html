@@ -11,6 +11,8 @@
     
 </head>
 <body>
+
+  <!--Navegador-->-->
 <div class="navegador d-flex justify-content-between">
     <img src="../assets/img/logo transparente fv-01.png" alt="logo">
     <nav class="navbar navbar-expand-lg navbar-light bg-light text-center ">
@@ -51,6 +53,52 @@
         </div>
       </nav>
 </div>
+
+<!--Formulario-->
+<div class="d-flex justify-content-around mt-5">
+<div class="">
+  <h1>Contactanos</h1>
+  <h3 class="mt-3">Para contactarnos por favor complete el siguiente formulario</h3> 
+   <h3>  Muchas gracias </h3>
+</div>
+
+<div class="">
+  <form action="archivo.php" method="get" >
+
+  <label for="nombre" id="nombre">Nombre</label><br>
+  <input type="text" name="nombre" placeholder="Nombre"><br>
+
+  <label for="email" id="email">Email</label><br>
+  <input type="email" name="email" placeholder="tucorreo@gmail.com" ><br>
+
+  <label for="telefono" id="telefono">Telefono</label><br>
+  <input type= "tel" name="telefono" placeholder="Telefono"><br><br>
+
+ <label for="newsletter" id="newsletter">¿Desea recibir nuestro Newsletter?</label>
+  <input type="checkbox" name="newsltter" value="acepto newsletter"><br><br>
+  
+  <label for="canal" id="canal">Canal</label><br>
+  <select name="canal"><br>
+      <option value="canal minorista">Canal Minorista</option><br>
+      <option value="canal mayorista">Canal Mayorista</option><br>
+  </select><br><br>
+
+  <label for="hombre" id="hombre" >Hombre</label>
+  <input type="radio" name="sexo" value="hombre"><br>
+
+  <label for="muejer" id="mujer">Mujer</label>  
+  <input type="radio" name="sexo" value="mujer"><br><br>
+
+  <label for="comentario" id="comentario">Mensaje</label><br>
+  <textarea name="comentario"  cols="30" rows="10"></textarea><br>
+
+   <input type="submit" value="Enviar Formulario"><br>
+  <input type="reset" value="Borrar"><br>
+</form>
+</div>
+</div>
+
+<!--Footer-->
 
 <footer>
     <div class="pie d-flex justify-content-between">
