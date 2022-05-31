@@ -1,16 +1,13 @@
-.navegador {
-  background-color: black;
-}
-
-.navegador .navbar {
-  background-color: black;
-}
-
 .pie {
   background-color: black;
 }
 
 .contacto {
   background-color: bisque;
+}
+
+.navecan {
+  background-color: black;
+  color: antiquewhite;
 }
 /*# sourceMappingURL=style.css.map */
