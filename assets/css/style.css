@@ -3,7 +3,7 @@
 }
 
 .contacto {
-  background-color: bisque;
+  background-color: lavender;
 }
 
 .navegador {
@@ -13,5 +13,9 @@
 
 .tarjetas {
   background-color: lightgray;
+}
+
+.nosotros {
+  background-color: lavender;
 }
 /*# sourceMappingURL=style.css.map */

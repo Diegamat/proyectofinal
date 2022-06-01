@@ -1,12 +1,13 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;CAC1B;;ACFD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAC,MACrB;CAAC;;ACFD,AAAA,UAAU,CAAC;EACP,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,YAAY;CAEtB;;ACJD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,SAAS;CAC9B",
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;CAC1B;;ACFD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,QAAQ;CAC7B;;ACFD,AAAA,UAAU,CAAC;EACP,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,YAAY;CAEtB;;ACJD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,SAAS;CAC9B;;ACFD,AAAA,SAAS,CAAA;EACL,gBAAgB,EAAE,QAAQ;CAC7B",
     "sources": [
         "../scss/style.scss",
         "../scss/_pie.scss",
         "../scss/_contacto.scss",
         "../scss/_navegador.scss",
-        "../scss/_tarjetas.scss"
+        "../scss/_tarjetas.scss",
+        "../scss/_nosotros.scss"
     ],
     "names": [],
     "file": "style.css"
