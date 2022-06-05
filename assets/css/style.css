@@ -22,4 +22,8 @@
 .imgnosotros {
   background-image: url(../img/deposito4.jpg);
 }
+
+.tarjeta {
+  box-shadow: 8px 11px 24px -11px rgba(0, 0, 0, 0.75);
+}
 /*# sourceMappingURL=style.css.map */
