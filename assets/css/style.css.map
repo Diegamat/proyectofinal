@@ -1,13 +1,14 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;CAC1B;;ACFD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,QAAQ;CAC7B;;ACFD,AAAA,UAAU,CAAC;EACP,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,YAAY;CAEtB;;ACJD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,SAAS;CAC9B;;ACFD,AAAA,SAAS,CAAA;EACL,gBAAgB,EAAE,QAAQ;CAC7B",
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;CAC1B;;ACFD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,QAAQ;CAC7B;;ACFD,AAAA,UAAU,CAAC;EACP,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,YAAY;CAEtB;;ACJD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,SAAS;CAC9B;;ACFD,AAAA,SAAS,CAAA;EACL,gBAAgB,EAAE,QAAQ;CAC7B;;AAED,AAAA,YAAY,CAAC;EACT,gBAAgB,EAAE,yBAAyB;CAC9C",
     "sources": [
         "../scss/style.scss",
         "../scss/_pie.scss",
         "../scss/_contacto.scss",
         "../scss/_navegador.scss",
         "../scss/_tarjetas.scss",
-        "../scss/_nosotros.scss"
+        "../scss/_nosotros.scss",
+        "../scss/_index.scss"
     ],
     "names": [],
     "file": "style.css"
